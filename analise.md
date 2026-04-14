@@ -10,10 +10,6 @@ O Jogo da Forca é um passatempo de adivinhação em que um jogador tenta descob
 ## Diagrama de Casos de Uso
 
 Apresentar o diagram de casos de uso, identificando as funcionalidades do sistema assim como os atores envolvidos
- 
-## Diagrama de Domínio do problema
-
-Elaborar um diagrama conceitual do domínio do problema.
 <div align="center">
     <img src="img/UseCaseDiagram.png">
 </div>
@@ -23,6 +19,10 @@ Detalhamento dos casos de uso:
 - [UC1: Jogar](uc01.md)
 
 <div align="center">
+ 
+## Diagrama de Domínio do problema
+
+Elaborar um diagrama conceitual do domínio do problema.
 
 [Retroceder](README.md) | [Avançar](projeto.md)
 
