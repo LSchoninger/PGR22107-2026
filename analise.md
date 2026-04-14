@@ -5,9 +5,7 @@
 
 ## Descrição Geral do domínio do problema
 
-Descrever de forma geral o domínio do problema.
-
-Possíveis requisitos funcionais e não-funcionais podem ser elencados aqui.
+O Jogo da Forca é um passatempo de adivinhação em que um jogador tenta descobrir uma palavra oculta sugerindo letras individualmente. A cada acerto, as lacunas correspondentes são preenchidas; a cada erro, desenha-se uma parte do corpo de um boneco palito em uma forca. O objetivo é completar a palavra antes que o boneco, geralmente composto por seis partes (cabeça, tronco e membros), seja totalmente desenhado. Caso o jogador descubra o termo a tempo, ele vence; caso contrário, ocorre o "enforcamento" simbólico e a palavra é revelada. É um jogo que exige vocabulário e lógica, sendo comum começar pelas vogais para identificar a estrutura da palavra.
 
 ## Diagrama de Casos de Uso
 
@@ -16,7 +14,13 @@ Apresentar o diagram de casos de uso, identificando as funcionalidades do sistem
 ## Diagrama de Domínio do problema
 
 Elaborar um diagrama conceitual do domínio do problema.
+<div align="center">
+    <img src="img/UseCaseDiagram.png">
+</div>
 
+Detalhamento dos casos de uso:
+
+- [UC1: Jogar](uc01.md)
 
 <div align="center">
 
