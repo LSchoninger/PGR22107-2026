@@ -5,7 +5,7 @@
 
 ## Descrição Geral do domínio do problema
 
-O Jogo da Forca é um passatempo de adivinhação em que um jogador tenta descobrir uma palavra oculta sugerindo letras individualmente. A cada acerto, as lacunas correspondentes são preenchidas; a cada erro, desenha-se uma parte do corpo de um boneco palito em uma forca. O objetivo é completar a palavra antes que o boneco, geralmente composto por seis partes (cabeça, tronco e membros), seja totalmente desenhado. Caso o jogador descubra o termo a tempo, ele vence; caso contrário, ocorre o "enforcamento" simbólico e a palavra é revelada. É um jogo que exige vocabulário e lógica, sendo comum começar pelas vogais para identificar a estrutura da palavra.
+O aplicativo tem como objetivo facilitar o entendimento de teoria musical, mostrando como os acordes são formados a partir de uma nota; Seus campos harmonicos; Progressões possíveis de acordes; Modulações; Inversões de acordes; Transposição e até mesmo rearmonização de uma tonalidade de uma sequência de acordes.
 
 ## Diagrama de Casos de Uso
 
