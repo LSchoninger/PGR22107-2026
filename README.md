@@ -4,11 +4,11 @@
 
 # Hangman
 
-### Implementação do jogo da Forca
+### Implementação de aplicativo musical
 
 > Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orientada a objetos. 
 > 
-> Aluno: Nome do aluno  
+> Aluno: Leandro Luiz Schoninger Filho
 > Professor: Hugo Marcondes
 
 <p align=center><strong>SUMÁRIO</strong></p>
