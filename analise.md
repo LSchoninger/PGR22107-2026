@@ -11,7 +11,7 @@ O aplicativo tem como objetivo facilitar o entendimento de teoria musical, mostr
 
 Apresentar o diagram de casos de uso, identificando as funcionalidades do sistema assim como os atores envolvidos
 <div align="center">
-    <img src="img/UseCaseDiagram.png">
+    <img src="img/casouso.png">
 </div>
 
 Detalhamento dos casos de uso:
