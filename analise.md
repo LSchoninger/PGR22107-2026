@@ -35,8 +35,9 @@ Detalhamento dos casos de uso:
 
  
 ## Diagrama de Domínio do problema
-
-Elaborar um diagrama conceitual do domínio do problema.
+<div align="center">
+    <img src="img/diagramaProblema.png">
+</div>
 
 <div align="center">
 
