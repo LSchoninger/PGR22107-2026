@@ -32,7 +32,6 @@ Detalhamento dos casos de uso:
 8. O Sistema exibe todos os acordes pertencentes ao campo harmônico selecionado.
 
 9. O Sistema exibe as progressões de acordes mais comuns associadas a esse campo harmônico específico.
-- [UC1: Jogar](uc01.md)
 
  
 ## Diagrama de Domínio do problema
