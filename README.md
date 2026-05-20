@@ -2,7 +2,7 @@
      width="30%"
      style="padding: 10px">
 
-# Hangman
+# Musitom
 
 ### Implementação de aplicativo musical
 
